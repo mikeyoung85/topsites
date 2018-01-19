@@ -1,0 +1,2 @@
+python top-sites-pool.py --access-key-id <your-access-key> --secret-access-key <your-secret-key> --local-file /Users/myoung/Downloads/top_sites_raw.xml --worker-processes 10
+
